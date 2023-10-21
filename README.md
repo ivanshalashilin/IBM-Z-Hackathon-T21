@@ -1,5 +1,5 @@
-# Team 21, Zero Flux Given
-## AI Classification of Jellyfish and Plastic from ocean data
+# AI Classification of Jellyfish and Plastic from ocean data
+## Team 21, Zero Flux Given
 
 Convolution Neural Newtork used to classify images of plastic and images of jellyfish for the theme of 'Tech for Good'.
 The labelled datasets came from [Jellyfish Object Detection](https://github.com/srv/jf_object_detection) and [DeepData](https://drive.google.com/drive/folders/1fsS_u2QpbRGynYkP6-D6cfvq8r0hpjXI). 
@@ -38,7 +38,7 @@ with 10 and 100 epochs. We reached a maximum validation accuracy of 0.94.
 
 # Contributors
 
-We are final year students at Imperial College London, partaking in the IBM hackathon. All work is our own and datasets are publicly available at the links above
+We are final year students at Imperial College London, partaking in the IBM hackathon. All work is our own and datasets are publicly available at the links above.
 
 ## Jacob J. J. Edginton
 ## Yuet Long Lai
