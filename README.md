@@ -1,6 +1,4 @@
-# AI classification of jellyfish and plastic from ocean data
-‎ 
-## Team 21, Zero Flux Given
+# AI classification of jellyfish and plastic from ocean data - Team 21, Zero Flux Given
 
 Convolution neural newtork used to classify images of plastic and images of jellyfish for the theme of 'Tech for Good'.
 The labelled datasets came from [Jellyfish Object Detection](https://github.com/srv/jf_object_detection) and [DeepData](https://drive.google.com/drive/folders/1fsS_u2QpbRGynYkP6-D6cfvq8r0hpjXI). 
