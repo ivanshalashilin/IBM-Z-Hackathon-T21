@@ -33,7 +33,7 @@ model = Sequential([
 ])
 ```
 
-with 10 and 100 epochs. We reached a maximum validation accuracy of 0.94.
+with 10 and 100 epochs, accelerated thanks to IBM Z hardware. We reached a maximum validation accuracy of 0.94.
 
 # Contributors
 
