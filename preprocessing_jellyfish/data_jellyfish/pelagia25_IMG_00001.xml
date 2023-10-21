@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Pelagia Noctiluca nell'Area Marina Protetta Promontorio Portofino - Image Sequence</folder>
+	<filename>IMG_00001.jpg</filename>
+	<path>D:\Year 3\Jellyfish videos\Pelagia Noctiluca nell'Area Marina Protetta Promontorio Portofino - Image Sequence\IMG_00001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P. noctiluca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>297</ymin>
+			<xmax>737</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>P. noctiluca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>62</ymin>
+			<xmax>384</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>P. noctiluca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>953</xmin>
+			<ymin>428</ymin>
+			<xmax>1027</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>P. noctiluca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>997</xmin>
+			<ymin>566</ymin>
+			<xmax>1037</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

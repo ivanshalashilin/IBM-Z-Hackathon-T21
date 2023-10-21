@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pelagia noctiluca - Image Sequence - 2</folder>
+	<filename>IMG_00062.jpg</filename>
+	<path>D:\Year 3\Jellyfish videos\Pelagia noctiluca - Image Sequence - 2\IMG_00062.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P. noctiluca</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>234</ymin>
+			<xmax>730</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>GOPR5440</folder>
+	<filename>GOPR5440 17.jpg</filename>
+	<path>/Users/anaruiz/Dropbox/Work_DP/JELLYPACTS/Automatic detection/LabelImg/Input photos/Banyalbufar 2017/GOPR5440/GOPR5440 17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pelagia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1172</xmin>
+			<ymin>283</ymin>
+			<xmax>1216</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pelagia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>544</ymin>
+			<xmax>344</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

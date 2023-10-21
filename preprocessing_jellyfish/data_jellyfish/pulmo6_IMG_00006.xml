@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medusa big Rhizostoma pulmo	(Siracusa mare di Ognina) - Image Sequence</folder>
+	<filename>IMG_00006.jpg</filename>
+	<path>D:\Year 3\Jellyfish videos\R. pulmo\Medusa big Rhizostoma pulmo	(Siracusa mare di Ognina) - Image Sequence\IMG_00006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R. pulmo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>344</ymin>
+			<xmax>653</xmax>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+</annotation>

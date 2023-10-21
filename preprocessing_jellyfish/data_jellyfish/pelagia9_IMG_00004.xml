@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Mauve Stinger Jellyfishes Made with GoPro Hero 4 Black - Image Sequence</folder>
+	<filename>IMG_00004.jpg</filename>
+	<path>D:\Year 3\Jellyfish videos\Mauve Stinger Jellyfishes Made with GoPro Hero 4 Black - Image Sequence\IMG_00004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P. noctiluca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>304</ymin>
+			<xmax>817</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>P. noctiluca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>216</ymin>
+			<xmax>714</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>P. noctiluca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1006</xmin>
+			<ymin>179</ymin>
+			<xmax>1067</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

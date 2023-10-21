@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rhizostoma Pulmo, Barrel jellyfish, filmed in Cornwall - Image Sequence</folder>
+	<filename>IMG_00010.jpg</filename>
+	<path>D:\Year 3\Jellyfish videos\R. pulmo\Rhizostoma Pulmo, Barrel jellyfish, filmed in Cornwall - Image Sequence\IMG_00010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R. pulmo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>71</ymin>
+			<xmax>1165</xmax>
+			<ymax>638</ymax>
+		</bndbox>
+	</object>
+</annotation>

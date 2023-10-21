@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medusa (Rhizostoma Pulmo) a Capo D'Arco (Isola d'Elba) - Image Sequence</folder>
+	<filename>IMG_00004.jpg</filename>
+	<path>D:\Year 3\Jellyfish videos\R. pulmo\Medusa (Rhizostoma Pulmo) a Capo D'Arco (Isola d'Elba) - Image Sequence\IMG_00004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R. pulmo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>88</ymin>
+			<xmax>893</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

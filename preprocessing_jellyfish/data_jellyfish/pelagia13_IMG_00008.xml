@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medusa Pelagia Noctiluca - Image Sequence</folder>
+	<filename>IMG_00008.jpg</filename>
+	<path>C:\Users\charl\OneDrive\Documents\Jellyfish videos\Medusa Pelagia Noctiluca - Image Sequence\IMG_00008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P. noctiluca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>187</ymin>
+			<xmax>784</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cotylorhiza tuberculata (Macri, 1778) - Image Sequence</folder>
+	<filename>IMG_00027.jpg</filename>
+	<path>D:\Year 3\Jellyfish videos\C. tuberculata\Cotylorhiza tuberculata (Macri, 1778) - Image Sequence\IMG_00027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C. tuberculata</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>17</ymin>
+			<xmax>1160</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Banyalbufar 2017</folder>
+	<filename>22.jpg</filename>
+	<path>/Users/anaruiz/Dropbox/Work_DP/JELLYPACTS/Automatic detection/LabelImg/Input photos/Banyalbufar 2017/22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pelagia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>693</ymin>
+			<xmax>78</xmax>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pelagia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1297</xmin>
+			<ymin>524</ymin>
+			<xmax>1386</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>

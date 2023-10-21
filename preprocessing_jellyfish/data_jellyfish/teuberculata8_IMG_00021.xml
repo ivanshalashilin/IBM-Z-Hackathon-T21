@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cotylorhiza tuberculata - Image Sequence</folder>
+	<filename>IMG_00021.jpg</filename>
+	<path>D:\Year 3\Jellyfish videos\C. tuberculata\Cotylorhiza tuberculata - Image Sequence\IMG_00021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C. tuberculata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>661</xmin>
+			<ymin>153</ymin>
+			<xmax>846</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rhizostome jellyfish Rhizostoma pulmo jellyfish - Image Sequence</folder>
+	<filename>IMG_00003.jpg</filename>
+	<path>D:\Year 3\Jellyfish videos\R. pulmo\Rhizostome jellyfish Rhizostoma pulmo jellyfish - Image Sequence\IMG_00003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R. pulmo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>6</ymin>
+			<xmax>1054</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

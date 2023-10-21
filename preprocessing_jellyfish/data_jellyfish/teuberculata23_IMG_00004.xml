@@ -1,0 +1,26 @@
+<annotation>
+	<folder>videoplayback (2) - Image Sequence</folder>
+	<filename>IMG_00004.jpg</filename>
+	<path>D:\Year 3\Jellyfish videos\C. tuberculata\videoplayback (2) - Image Sequence\IMG_00004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C. tuberculata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>33</ymin>
+			<xmax>297</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>
