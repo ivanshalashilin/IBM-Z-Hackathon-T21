@@ -1,4 +1,4 @@
-# AI Classification of Jellyfish and Plastic from ocean data
+# AI classification of jellyfish and plastic from ocean data
 
 ## Team 21, Zero Flux Given
 
