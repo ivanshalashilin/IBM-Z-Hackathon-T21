@@ -1,7 +1,8 @@
 # AI Classification of Jellyfish and Plastic from ocean data
+
 ## Team 21, Zero Flux Given
 
-Convolution Neural Newtork used to classify images of plastic and images of jellyfish for the theme of 'Tech for Good'.
+Convolution neural newtork used to classify images of plastic and images of jellyfish for the theme of 'Tech for Good'.
 The labelled datasets came from [Jellyfish Object Detection](https://github.com/srv/jf_object_detection) and [DeepData](https://drive.google.com/drive/folders/1fsS_u2QpbRGynYkP6-D6cfvq8r0hpjXI). 
 
 Our motivations are:
@@ -16,7 +17,7 @@ In the `preprocessing_jellyfish` and `preprocessing_plastic` folders we have not
 
 ## Machine learning
 
-We used a convolution neural network with the following 
+We used a convolution neural network with the following layers 
 
 ```
 model = Sequential([
