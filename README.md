@@ -39,9 +39,9 @@ with 10 and 100 epochs. We reached a maximum validation accuracy of 0.94.
 
 We are final year students at Imperial College London, partaking in the IBM hackathon. All work is our own and datasets are publicly available at the links above.
 
-## Jacob J. J. Edginton
-## Yuet Long Lai
-## Ganel R. Nallamilli
-## Oliver Phillips
-## Ivan Shalashilin
-## Pieter Van Steenweghen
+## [Jacob J. J. Edginton](https://github.com/Jacob-J-E)
+## [Yuet Long Lai](https://github.com/yuetlonglai)
+## [Ganel R. Nallamilli](https://github.com/GanelNallamilli) 
+## [Oliver Phillips]()
+## [Ivan Shalashilin]
+## [Pieter Van Steenweghen](https://github.com/pietervansteenweghen)
