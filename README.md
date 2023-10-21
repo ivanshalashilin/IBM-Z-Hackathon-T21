@@ -43,5 +43,5 @@ We are final year students at Imperial College London, partaking in the IBM hack
 ## [Yuet Long Lai](https://github.com/yuetlonglai)
 ## [Ganel R. Nallamilli](https://github.com/GanelNallamilli) 
 ## [Oliver Phillips]()
-## [Ivan Shalashilin]
+## [Ivan Shalashilin](https://github.com/ivanshalashilin)
 ## [Pieter Van Steenweghen](https://github.com/pietervansteenweghen)
