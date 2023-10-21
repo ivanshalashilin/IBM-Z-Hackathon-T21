@@ -1,4 +1,4 @@
-# Team 21, Zero Flux Given:
+# Team 21, Zero Flux Given
 ## AI Classification of Jellyfish and Plastic from ocean data
 
 Convolution Neural Newtork used to classify images of plastic and images of jellyfish for the theme of 'Tech for Good'.
@@ -14,7 +14,7 @@ Our motivations are:
 
 In the `preprocessing_jellyfish` and `preprocessing_plastic` folders we have notebooks where we cropped each image to the bounding box, added padding to make all images square, then rescaled so that each image is a 100x100 pixels. 
 
-## Machine Learning
+## Machine learning
 
 We used a convolution neural network with the following 
 
@@ -35,3 +35,14 @@ model = Sequential([
 ```
 
 with 10 and 100 epochs. We reached a maximum validation accuracy of 0.94.
+
+# Contributors
+
+We are final year students at Imperial College London, partaking in the IBM hackathon. All work is our own and datasets are publicly available at the links above
+
+## Jacob J. J. Edginton
+## Yuet Long Lai
+## Ganel R. Nallamilli
+## Oliver Phillips
+## Ivan Shalashilin
+## Pieter Van Steenweghen
